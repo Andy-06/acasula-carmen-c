@@ -1,0 +1,122 @@
+<style>
+a{
+	text-decoration: none;
+	color: black;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+h1{
+	font-size: 50px;
+	margin-bottom: 30px;
+}
+
+#img1{
+	height: 140px;
+}
+#headline{
+	margin-top: 20px;
+	margin-left: 40px;
+	margin-bottom: 180px;
+}
+#headline p{
+	
+	font-family: 'Grandstander', cursive;
+	font-size: 20px;
+	margin-right: 10px;
+}
+#uno p{
+	font-size: 20px;
+	margin-left: 28px;
+	margin-right: 10px;
+}
+h2{
+	font-family: 'Grandstander', cursive;
+}
+#headline h2 p{
+	
+	margin-bottom: 100px;
+	font-family: 'Grandstander', cursive;
+}
+#uno #headline{
+	font-family: 'Itim', cursive;
+}
+#uno p{
+	
+	font-family: 'Grandstander', cursive;
+}
+.wrapper{
+	color: red;
+}
+#menu ul a{
+	color: black;
+	padding: 10px 10px;
+	margin-left: auto;
+	margin-bottom: -20px;
+	margin-top: -20px;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+#todo{
+	font-family: Helvetica;
+	background: url(https://image.freepik.com/foto-gratis/acuarela-azul_76542-38.jpg);
+}
+.byline{
+	color: black;
+	font-size: 20px;
+	margin-bottom: 40px;
+}
+#img1 img{
+	width: 450px;
+}
+
+#main p{
+	text-align: justify;
+}
+#main br{
+	color: bold px black;
+}
+hr {
+	width: 1100px;
+border: 0;
+border-top: 2px solid black; 
+border-bottom: 2px solid black;
+height:0;
+}
+#headline{
+
+	columns: 2;
+}
+
+#main {
+	columns: 2;
+	width: auto;
+	height: auto;
+}
+ p{
+ 	text-align: justify;
+	width: auto;
+	height: auto;
+}
+.uno{
+	padding-top:  18px;
+}
+.tres{
+	padding-top: 65px;
+}
+
+h1{
+	font-size: 50px;
+}
+img{
+	height: 330px;
+	margin-top: 40px;
+}
+
+
+
+</style>
